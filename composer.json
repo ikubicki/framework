@@ -1,0 +1,10 @@
+{
+    "name": "irekk/fw",
+    "type": "library",
+    "require": {
+		"irekk/controller": "^0.1.1"
+	},
+    "autoload": {
+        "psr-4": {"Irekk\\Framework\\": "src"}
+    }
+}
